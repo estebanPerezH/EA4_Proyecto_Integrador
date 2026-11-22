@@ -1,0 +1,25 @@
+# Archivos compilados y temporales de Java / IDE
+bin/
+out/
+target/
+*.class
+*.log
+
+# Bases de datos SQLite generadas en ejecución local
+*.db
+*.sqlite
+*.sqlite3
+
+# Entregables empaquetados e informes locales (excepto informe oficial AA4)
+*.zip
+*.pdf
+!AA4_Proyecto_integrador_PerezJhoan.pdf
+*.docx
+
+# Metadatos del editor y sistema operativo
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
